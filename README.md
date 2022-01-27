@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManmeetSinghBedi
-- 👀 I’m interested in Solution Architeture and Digital
+- 👀 I’m interested in Solution Architecture and Digital
 - 🌱 I’m currently learning .NET and GCP
 - 💞️ I’m looking to collaborate on Algorithms
 - 📫 Reach me on : manmeet.bedi@gmail.com
